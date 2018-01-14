@@ -1,0 +1,13 @@
+http://www4.stat.ncsu.edu/~post/josh/LASSO_Ridge_Elastic_Net_-_Examples.html#generate-data
+https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+http://samm.univ-paris1.fr/IMG/pdf/modlin5-2.pdf
+http://jybaudot.fr/Stats/indicecarts.html
+
+http://www.lsta.upmc.fr/guilloux.php?main=enseignement
+http://www.sthda.com/french/articles/38-methodes-des-composantes-principales-dans-r-guide-pratique/73-acp-analyse-en-composantes-principales-avec-r-l-essentiel/
+(acp)
+https://www.ephiquant.com/reduction-de-dimension-analyse-en-composant-principal-avec-python/#Choix_des_composants_principaux
+(acp)
+http://cedric.cnam.fr/vertigo/Cours/ml/tpAcp.html
+(acp)
+https://www.safran-group.com/fr/talents/Nos%20offres/offer/58833 (stage)
